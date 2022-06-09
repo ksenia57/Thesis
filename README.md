@@ -1,4 +1,6 @@
 ## Thesis
 This repository will store files on the thesis
 
-+ First of all, we [analyze and process](https://github.com/ksenia57/Thesis/blob/master/Data%20analysis.ipynb) the data
++ [Сlear](https://github.com/ksenia57/Thesis/blob/master/Data%20cleaning.ipynb) the data.
++ [Analyze and process](https://github.com/ksenia57/Thesis/blob/master/Data%20analysis.ipynb) the data (Pymorphy2, spacy). Lemmatization and stemming.
++ [Vectorization, similarity](https://github.com/ksenia57/Thesis/blob/master/Research.ipynb) the data. Bag of words (CountVectorizer), Cosine_similarity and recommendation function.
